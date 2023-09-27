@@ -1,0 +1,36 @@
+#countdown{
+    color:firebrick;
+ 
+    padding: 10px;
+
+}
+
+#cards{
+    display: none;
+}
+
+
+#loader5 {
+position: fixed;
+top: 60% ;
+left: 50% ;
+transform: translate(-50%, -50%);
+}
+
+.loader-con{
+    display: none;
+    position: fixed;
+    top:0;
+    left:0;
+    width: 100% ;
+    height: 100% ;
+    background-color: rgb(6 1 1 / 70%);
+}
+
+.list-group-item {
+    background: transparent;
+}
+
+img {
+    max-width: 100% ;
+}
